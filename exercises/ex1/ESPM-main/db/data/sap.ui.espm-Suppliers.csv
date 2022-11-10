@@ -1,0 +1,10 @@
+City;Country;EmailAddress;HouseNumber;PhoneNumber;PostalCode;Street;SupplierID;SupplierName
+Antioch, Illinois;US;viola.gains@itelo.info;143;1029384756;60002;Spring Garden Street;100000042;ITelO
+Los Angeles, California;US;paul.burke@itelo.info;100;1029384757;90067;Main Street;100000043;ITelO
+Atlanta, Georgia;US;franklin.jones@pear-computing.com;8315;6789012345;30350;Jett Ferry Rd;100000046;Pear Computing Services
+Berlin;DE;dagmar.schulze@beckerberlin.de;127;3088530;13467;Zabel-Krüger-Damm;100000045;Becker Berlin
+Montreal;CA;anthony.lebouef@crtu.ca;32;6839542781;QCH2Y3Z7;Rue McGill;100000048;C.R.T.U.
+Gliwice;PL;pawel-lewandoski@catf.pl;48B;8367920106;44-100;Zwycięstwa;100000050;Chemia A Technicznie Fabryka
+Sankt-Peterburg;RU;igor.tarassow@retc.ru;38;4050378468;190008;Elektrozavodskaya ulitsa;100000047;Russian Electronic Trading Company
+Bangalore;IN;sunita-kapoor@it-trade.in;70;4203876954;560027;Mission Rd;100000049;Indian IT Trading Company
+Rome;IT;sally.spring@itelo.info;53;1029384758;164;Piazza Adriana;100000044;ITelO

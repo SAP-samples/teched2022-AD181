@@ -1,0 +1,95 @@
+{
+	"Controls": [
+		{
+			"_Type": "Control.Type.SectionedTable",
+			"_Name": "SectionedTable0",
+			"Sections": [
+				{
+					"_Type": "Section.Type.SimplePropertyCollection",
+					"_Name": "SectionSimplePropertyCollection0",
+					"Visible": true,
+					"EmptySection": {
+						"FooterVisible": false
+					},
+					"SimplePropertyCells": [
+						{
+							"SimplePropertyCell": {
+								"_Name": "SectionSimplePropertyCell0",
+								"KeyName": "Support",
+								"AccessoryType": "disclosureIndicator",
+								"Visible": true,
+								"OnPress": "/UserMenu/Actions/Application/NavToSupport.action"
+							}
+						},
+						{
+							"SimplePropertyCell": {
+								"_Name": "SectionSimplePropertyCell1",
+								"KeyName": "About",
+								"AccessoryType": "disclosureIndicator",
+								"Visible": true,
+								"OnPress": "/UserMenu/Actions/Application/NavToAbout.action"
+							}
+						}
+					],
+					"Layout": {
+						"NumberOfColumns": 1
+					}
+				},
+				{
+					"_Type": "Section.Type.ButtonTable",
+					"_Name": "SectionButtonTable0",
+					"Visible": true,
+					"EmptySection": {
+						"FooterVisible": false
+					},
+					"Buttons": [
+						{
+							"_Name": "SectionButton0",
+							"Title": "Sync Changes",
+							"TextAlignment": "Center",
+							"Alignment": "Center",
+							"ButtonType": "Text",
+							"Semantic": "Tint",
+							"ImagePosition": "Leading",
+							"Visible": "$(PLT,true,true,false)",
+							"OnPress": "/UserMenu/Actions/Application/SyncStartedMessage.action"
+						},
+						{
+							"_Name": "SectionButton1",
+							"Title": "Check for Updates",
+							"TextAlignment": "Center",
+							"Alignment": "Center",
+							"Visible": "$(PLT,true,true,false)",
+							"OnPress": "/UserMenu/Actions/Application/AppUpdateProgressBanner.action"
+						},
+						{
+							"_Name": "SectionButton2",
+							"Title": "Reset",
+							"TextAlignment": "Center",
+							"Alignment": "Center",
+							"Visible": true,
+							"OnPress": "/UserMenu/Actions/Application/ResetConfirmation.action"
+						}
+					]
+				}
+			]
+		}
+	],
+	"_Type": "Page",
+	"_Name": "Profile",
+	"Caption": "Profile",
+	"PrefersLargeCaption": true,
+	"ActionBar": {
+		"Items": [
+			{
+				"_Name": "ActionBarItem1",
+				"Caption": "Done",
+				"Position": "Right",
+				"IsIconCircular": false,
+				"Visible": true,
+				"OnPress": "/UserMenu/Actions/CloseModalComplete.action"
+			}
+		],
+		"_Name": "ActionBar1"
+	}
+}

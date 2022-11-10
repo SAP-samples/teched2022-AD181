@@ -1,0 +1,25 @@
+﻿City;Country;CustomerID;DateOfBirth;EmailAddress;FirstName;HouseNumber;LastName;PhoneNumber;PostalCode;Street
+Rosario, Santa Fe;AR;456992;1980-01-01;laura.campillo@saitc.ar;Guillermo;7785;Ferrero;1438907230;2008;Av. Eva Per√≥n
+Bologna;IT;456993;1980-01-01;alessio.galasso@tcdr.it;Lorella;17;Bottegoni;4580963184;40128;Via della Liberazione
+Rio Branco;BR;456994;1980-01-01;beatriz.da_silva@brazil-tec.br;Isabelle;117;Alves;469614115;69906-400;R Omar Sabino
+St.-Leon Rot;DE;456995;1980-01-01;do.not.reply@sap.com;Harald;6;Gahn;1701234567;68789;Opelstra√üe
+Hermosillo;MX;456996;1980-01-01;victor.sanchez@avantel.com;Ang√©lica;12;Pretelini;7257716;83260;Danubio
+Moorestown;US;456997;1980-01-01;jefferson.parker@pico-bit.com;Steve;351;Gallion;9703586412;8057;New Albany Road
+Paris;FR;456998;1980-01-01;romain.le_mason@verdo.fr;Sebastien;4;Frati;1012697341;57490;Rue de la Frontiere
+Telgte;DE;456999;1980-01-01;bart.koenig@tecum-ag.de;Nicole;65;Bohm;2511415;49291;Orkotten
+Boca Raton, Florida;US;457000;1980-01-01;alexis.harper@flor-hc.com;Carolyn;5147;Yale;6065470312;33486;Deerhurst Crescent Cir
+Walldorf;DE;457001;1980-01-01;sven.j@getraenke-janssen.de;Leah;51;Aachen;3629731486;80335;Nymphenburger Str
+Linz;AT;457002;1980-01-01;joseph_gschwandtner@alp-systems.at;Karolin;78;Schr√∂der;6623612804;4020;Landstra√üe
+Munich;DE;457003;1980-01-01;james.field@itelo.info;James;10;Field;1029384750;80809;Am Olympiapark
+Mendoza;AR;457004;1980-01-01;miguel.luengo@compostela.ar;Carla;352;Cardoso;4440238917;M5519;Av. Bandera de los Andes
+Koln;DE;457005;1980-01-01;johanna.esther@meliva.de;Kevin;39;Schroeder;2208791738;50825;Hospeltstrasse
+Buenos Aires;AR;457006;1980-01-01;jorge.velez@telecomunicacionesstar.com;Renan;12221;Barros;1133557799;1511;La Horqueta
+Biel;CH;457007;1980-01-01;lisa.felske@jologa.ch;Hansjoerg;13;Wegmann;6714954542;2504;Grenchenstrasse
+Kastrup;DK;457008;1980-01-01;frederik.christensen@dftc.dk;Charlotte;385;Hojby;3102050749;2770;Englandsvej
+Manchester;GB;457009;1980-01-01;george_d_grant@newlinedesign.co.uk;Brigida;16;Wright;2589436180;M11 3ER;Midland St
+Paris;FR;457010;1980-01-01;sophie.ribery@laurent-paris.com;Jean-Louis;2;Pasqua;149744423;75012;20 pl des Vins de France
+Bismarck, North Dakota;US;457011;1980-01-01;theodor.monathy@anavideon.com;Carlene;950;McCutcheon;5850428367;58503;Geteway Ave
+Tokyo;JP;457012;1980-01-01;yoshiko.kakuji@jateco.jp;Kazuo;3;Koike;3206580974;104-0045;Tsukiji, 3 Chome‚àí5‚àí4
+Ottawa;CA;457013;1980-01-01;robert_brown@rb-entertainment.ca;Jesse;383;Charley;7609448173;ONK1R7T2;Albert St
+Mannheim;DE;457014;1980-01-01;martha.calcagno@dpg.ar;Nicolas;3100;Borio;7345697824;1510;Francisco Soler
+Carrollton, Texas;US;457015;1980-01-01;jonathan.d.mason@baleda.com;Bruce;1847;Ford;2483693027;75006;Moonbeam Ln

@@ -1,0 +1,50 @@
+{
+    "_Name": "UserMenuSection",
+    "Items": [
+		{
+			"Image": "sap-icon://synchronize",
+			"OnPress": "/UserMenu/Actions/Application/SyncStartedMessage.action",
+            "_Name": "Sync",
+			"Title": "Sync Changes",
+			"Visible": "$(PLT,true,true,false)",
+            "TextAlignment": "left"
+        },
+        {
+			"Image": "sap-icon://headset",
+			"OnPress": "/UserMenu/Actions/Application/NavToSupport.action",
+            "_Name": "Support",
+			"Title": "Support",
+			"Visible": true,
+            "TextAlignment": "left"
+		},
+		{
+			"Image": "sap-icon://validate",
+			"OnPress": "/UserMenu/Actions/Application/AppUpdateProgressBanner.action",
+            "_Name": "Update",
+			"Title": "Check for Updates",
+			"Visible": "$(PLT,true,true,false)",
+            "TextAlignment": "left"
+		},        
+        {
+			"Image": "sap-icon://message-information",
+			"OnPress": "/UserMenu/Actions/Application/NavToAbout.action",
+            "_Name": "About",
+			"Title": "About",
+			"Visible": true,
+            "TextAlignment": "left"
+		},
+		{
+			"Image": "sap-icon://reset",
+			"OnPress": "/UserMenu/Actions/Application/ResetConfirmation.action",
+            "_Name": "Reset",
+			"Title": "Reset",
+			"Visible": true,
+            "TextAlignment": "left"
+		}
+    ],
+    "Caption": "User Menu",
+    "Visible": true,
+    "PreserveImageSpacing": true,
+    "SeparatorEnabled": true,
+    "_Type": "Control.Type.SideDrawerSection"
+}

@@ -1,0 +1,6 @@
+{
+    "Message": "Upload in progress...",
+    "CompletionMessage": "Sync completed",
+    "CompletionTimeout": 7,
+    "_Type": "Action.Type.ProgressBanner"
+}

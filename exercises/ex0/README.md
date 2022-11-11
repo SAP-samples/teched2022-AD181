@@ -163,6 +163,8 @@ You will create initial app configuration in SAP Mobile Services cockpit.
 4. Choose **Support** to open **SAP Mobile Services Cockpit**.
    
     ![BTP Cockpit](images/img-2.4.png)
+
+    >If you don't see `Support` link, make sure you are in sub-account level, not in space level.
      
 5. If you are asked to sign in, then enter your Email or Username to continue and click **Next**.
 
@@ -179,7 +181,8 @@ You will create initial app configuration in SAP Mobile Services cockpit.
     >- Once a new Mobile Services instance is created, click on 3 dots icon and select the **Open Dashboard** link to open the SAP Mobile Services cockpit. 
       >    ![BTP Cockpit](images/img-2.5.4.png)  
     >- Choose your identity provider if asked. The SAP Mobile Services cockpit page opens. Restore the app to repair it if needed. 
-      >    ![BTP Cockpit](images/img-2.5.5.png)  
+      >    ![BTP Cockpit](images/img-2.5.5.png)
+    >- If you see `No Organization exists` error, clear your browser cache and try again lauching the SAP Mobile Services cockpit via `Open Dashboard` option.  
 
 7. Once you have logged in to the SAP Mobile Services cockpit, click **Create new app** on the `Home` page or navigate to **Mobile Applications | Native/MDK | New**.
 

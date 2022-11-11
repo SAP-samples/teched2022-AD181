@@ -54,7 +54,7 @@ Switch your workspace to the `projects` folder.
 3. Execute below command setting the current path to your CAP project.
 
     ```shell
-    cd TechEd22-AD181/exercises/ex1/ESPM-main
+    cd teched2022-AD181/exercises/ex1/ESPM-main
     ```
 
 4. Execute below script to deploy CAP project to SAP BTP.
@@ -68,6 +68,8 @@ Switch your workspace to the `projects` folder.
     Once deployment process is finished, you will see a message about `ESPM-srv` application availability. 
 
     ![MDK](images/1.2.5.png) 
+
+    >If you see `Error retrieving MTA: Could not find MTA ESPM_1.0.0.mtar` in terminal window, please make sure that you have added the required CDS Graphical Modeler and CAP Tools as additional SAP Extensions in your dev space. Please check this [pre-requisite](../ex0/README.md#set-up-sap-business-application-studio-for-sap-cap-and-mdk-development).
 
     The highlighted URL in above screenshot is your service endpoint. Copy it and paste in a new tab in your browser. 
 

@@ -26,7 +26,7 @@ The User Menu contains the following items.
 ### Exercise 6.1 - Copy the UserMenuComponent application into your workspace
 Since the User Menu requires setting some configuration options, we will copy the component into our workspace
 
-1. Expand the session repository `Teched2022-AD181` | `exercises` | `ex6` folder
+1. Expand the session repository `teched2022-AD181` | `exercises` | `ex6` folder
 2. Right-click on the **UserMenuComponent** folder and select `Copy`.
    
     ![MDK](images/6.1.1.png)

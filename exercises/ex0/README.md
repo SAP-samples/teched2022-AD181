@@ -164,7 +164,7 @@ You will create initial app configuration in SAP Mobile Services cockpit.
    
     ![BTP Cockpit](images/img-2.4.png)
 
-    >If you don't see `Support` link, make sure you are in sub-account level, not in space level.
+    >If you don't see `Support` link, make sure you are in sub-account level, not in space level. Please look at the step 2 again.
      
 5. If you are asked to sign in, then enter your Email or Username to continue and click **Next**.
 

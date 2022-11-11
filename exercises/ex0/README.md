@@ -124,6 +124,8 @@ Once you have your BTP subaccount setup in the required region, please start com
 
   ![BTP Cockpit](images/img-3.6.png)
 
+>Bookmark the **SAP Business Application studio** URL for quick access as you will visit this page again in following exercises. 
+
 ### Clone the TechEd session repository
 
 Before starting on the session exercises, we will clone the session git repository into the Business Application Studio workspace.

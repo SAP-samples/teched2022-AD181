@@ -10,13 +10,13 @@ In this exercise, you will deploy your SAP Cloud Application Programming Model (
 
 ### Exercise 1.1 - Change the workspace to the projects folder
 
-Switch your workspace to the `projects` folder.
+1. Launch the SAP Business Application Studio or access it from https://account.hanatrial.ondemand.com.
 
-1. Click on the Explorer icon and click  **Open Folder**.
+2. Switch your workspace to the `projects` folder. Click on the Explorer icon and click  **Open Folder**.
 
     ![MDK](images/1.1.1.png)
 
-2. Select the `projects` folder if not already selected and click **OK**.
+3. Select the `projects` folder if not already selected and click **OK**.
 
     ![MDK](images/1.1.2.png)
 

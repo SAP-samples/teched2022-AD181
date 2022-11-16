@@ -30,9 +30,8 @@ You will update Product entity by uploading media to it.
     |----|----|
     | `Action Name`| GenericMessageBox |
     | `Type` | Select `Message` from the dropdown |
-    | `Message` | {Message} |
-    | `Title` | {Title} |
-    | `OKCaption` | {OKCaption} |
+    | `Message` | Message |
+    | `OKCaption` | OK |
     | `OnOK` | `--None--` |
     | `CancelCaption` | leave it blank |
     | `OnCancel` | `--None--` |
